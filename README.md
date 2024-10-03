@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm currently working on Frontend (React, JS, TS, Webpack, Redux, etc)<br>I'm currently learning Ruby, trying to build my Web Server from scratch<br>I'm presently reading how processes and sockets work.<br>I'm interested in collaborating on projects that deepens my knowledge in computer systems
-
+- **Name:** Trish S Goswami (aka badman-returs)
+- **Current Focus:** Frontend development (React, JavaScript, TypeScript, Webpack, Redux)
+- **Learning:** Ruby (building a web server from scratch)
+- **Exploring:** Processes and sockets
+- **Interests:** Collaborating on projects that deepen knowledge in computer systems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishnangshugoswami) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Err3r_4o4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ts_goswami) 
