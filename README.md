@@ -1,5 +1,4 @@
 # 💫 About Me:
-- **Name:** Trish S Goswami (aka badman-returs)
 - **Current Focus:** Frontend development (React, JavaScript, TypeScript, Webpack, Redux)
 - **Learning:** Ruby (building a web server from scratch)
 - **Exploring:** Processes and sockets
